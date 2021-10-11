@@ -34,7 +34,7 @@ class TestCooke:
 
     def test_auth(self):
         """
-        http basic认证
+        http basic认证1
         :return:
         """
         url="https://httpbin.testing-studio.com/basic-auth/apple/12345"
